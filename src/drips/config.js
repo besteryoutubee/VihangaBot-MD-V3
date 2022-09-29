@@ -1,26 +1,3 @@
-
-// ⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈
-//▮ZIM BOT INC 2022 ®️ALL RIGHTS RESERVED
-//▮
-//▮FORK AND DON'T FORGET TO GIVE A STAR
-//▮
-//▮THIS SOFTWARE IS UNDER UZ COPYRIGHT
-//▮
-//▮REPORT ABUSE OF THIS SOFTWARE EMAIL US
-//▮reinhardtuna@mail.uk
-//▮WHATSAPP US : +44 7441 437150
-//▮YOUTUBE CHANNELL: https://youtube.com/c/DRIPSOFC
-//▮
-//╰▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-//
-//┏━━━━━━━━━━━━━━━━━━━━━━━━━
-//┃THIS SOFTWARE INCLUDES 
-//┃SOME ENCRYPTED FILES
-//┃
-//┃THANKS FOR CHOOSING ZIMBOT
-//┃THANKS TO DIKA ARDNT
-//┗━━━━━━━━━━━━━━━━━━━━━━━━━
-//
 const fs = require('fs')
 const chalk = require('chalk')
 
@@ -37,12 +14,12 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['27634090203','447441437150']
-global.premium = ['27634090203','447441437150']
-global.botname = 'ZIM BOT INC'
-global.ownername ='DRIPS'
-global.packname = 'ZIM BOT INC'
-global.quoted = 'https://www.youtube.com/c/DRIPSOFC'
+global.owner = ['4915223267655']
+global.premium = ['4915223267655']
+global.botname = 'FriendZone'
+global.ownername ='besteryoutube'
+global.packname = 'FriendZone INC'
+global.quoted = 'https://www.youtube.com/channel/UCnWUr5jefLk0q6-Ac6psRqA'
 global.monayawal = '100000'
 global.darahawal = '100'
 global.besiAwal = '15'
